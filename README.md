@@ -9,6 +9,6 @@ $ python3 creerorg.py
 $ sh mysite.sh
 ```
 - visit http://localhost:3000
-
+- a la place de la bibliotheque pour ecrire le texte, c'est pytesseract
 
 # un-interpreter
